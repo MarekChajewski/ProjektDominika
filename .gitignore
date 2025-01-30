@@ -1,6 +1,8 @@
 # Ignorowanie folderu node_modules
 node_modules/
 
+.env
+
 # Ignorowanie plików logów
 *.log
 
