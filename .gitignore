@@ -1,0 +1,15 @@
+# Ignorowanie folderu node_modules
+node_modules/
+
+# Ignorowanie plików logów
+*.log
+
+# Ignorowanie plików tymczasowych
+*.tmp
+
+# Ignorowanie plików konfiguracyjnych IDE (np. VSCode)
+.vscode/
+
+# Ignorowanie systemowych plików Mac i Windows
+.DS_Store
+Thumbs.db
